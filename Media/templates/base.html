@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <title>Vigil</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        :root {
+            --screen-height-ratio: 1;
+            --screen-width-ratio: 1;
+        }
+
+        body {
+            margin: 0;
+            font-family: "Courier New", Courier, monospace;
+            z-index: 1;
+        }
+
+        .topnav {
+            position: absolute;
+            width: 100%;
+            height: calc(4vw * var(--screen-height-ratio));
+            border-bottom: 1px solid #ededed;
+            display: flex; 
+            z-index: 4;
+        }
+
+        .topnav a {
+            color: #000;  
+            text-align: center;
+            text-decoration: none;
+            font-size: 0.9vw;
+            font-weight: italic;  
+            background-color: transparent;  
+            position: relative;  
+            transition: color 0.3s; 
+        }
+
+        .topnav a.active {
+            background-color: transparent;  
+            color: black;
+            height: calc(4vw * var(--screen-height-ratio));  
+        }
+
+        .topnav a:hover {
+            color: red;
+            border-bottom: 1px solid red;
+        }
+
+        .topnav a::after {
+            content: "";  
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            height: calc(2px * var(--screen-height-ratio));
+            width: 0%;  
+            background-color: red;  
+            transition: width 0.3s; 
+        }
+
+        .topnav a:hover::after {
+            width: 100%;
+        }
+
+        .topnav i {
+            position: absolute;
+            font-size: calc(1.5vw * var(--screen-width-ratio)); 
+            color: #000;
+            margin-top: calc(15px * var(--screen-height-ratio));
+            margin-right: calc(10px * var(--screen-width-ratio)); 
+        }
+
+        .company-logo {
+            max-height: 100%;
+            float: left; 
+            width: calc(3vw * var(--screen-width-ratio)); 
+            height: calc(3vw * var(--screen-height-ratio)); 
+            overflow: hidden; 
+            margin-top: calc(6px * var(--screen-height-ratio));
+            margin-left: calc(5.2vw * var(--screen-width-ratio));
+        }   
+
+        .search-container {
+            position: absolute; 
+            padding-right: calc(2vw * var(--screen-width-ratio));
+            padding-top: calc(1.5vw * var(--screen-height-ratio));
+            padding-bottom: calc(3vw * var(--screen-height-ratio));
+            padding-left: calc(0.5vw * var(--screen-height-ratio));
+            margin-top: calc(-0.3vw * var(--screen-height-ratio));
+            margin-bottom: calc(0.5px * var(--screen-height-ratio));
+            color: #fff;
+        }
+
+        .search-bar {
+            border: calc(1px * var(--screen-width-ratio)) solid #f6f6f6;
+            padding-right: calc(0.5vw * var(--screen-width-ratio));
+            padding-top: calc(0.5vw * var(--screen-height-ratio));
+            padding-bottom: calc(0.5vw * var(--screen-height-ratio));
+            padding-left: calc(0.5vw * var(--screen-height-ratio));
+            border-radius: calc(10px * var(--screen-width-ratio));
+            margin-top: calc(0.5vw * var(--screen-height-ratio));
+            background-color: #eeeeee;
+            color: #000000;
+            height: calc(2.5vw * var(--screen-height-ratio));
+        }
+
+        .search-bar::placeholder {
+            color: #000000;
+            font-family: "Courier New", Courier, monospace;
+            padding-left: calc(10px * var(--screen-width-ratio));
+        }
+    </style>
+</head>
+
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const screenWidth = window.innerWidth;
+        const screenWidthRatio = window.innerWidth / 1536;
+        const screenHeightRatio = window.innerHeight / 730;
+        document.documentElement.style.setProperty('--screen-height-ratio', screenHeightRatio);
+        document.documentElement.style.setProperty('--screen-width-ratio', screenWidthRatio);
+
+        const searchContainer = document.querySelector('.search-container');
+        const searchBar = document.querySelector('.search-bar');
+        const icons = document.querySelector('.topnav i');
+
+        var user = document.getElementsByClassName('glyphicon glyphicon-user')
+        var bell = document.getElementsByClassName('glyphicon glyphicon-bell')
+
+        searchContainer.style.paddingLeft = `${screenWidth  - screenWidth * screenWidthRatio * 0.208 - screenWidth*screenWidthRatio*3/100 - 150*screenWidthRatio}px`;
+        searchBar.style.width = `${screenWidth * screenWidthRatio * 0.208}px`;
+        user[0].style.paddingLeft = `${screenWidth * screenWidthRatio - screenWidth * screenWidthRatio * 1.5/100 - 90 * screenWidthRatio}px`;
+        bell[0].style.paddingLeft = `${screenWidth * screenWidthRatio - screenWidth * screenWidthRatio * 1.5/100 - 150 * screenWidthRatio}px`;   
+        
+        //Set the padding for '.topnav a' elements dynamically
+        const links = document.querySelectorAll('.topnav a');
+        links.forEach(link => {
+            link.style.padding = `calc(1.5vw * ${screenHeightRatio}) calc(1vw * ${screenWidthRatio})`;
+        });
+    });
+</script>
+
+<div class="topnav">
+    <a class="active" href="/">Cow</a>
+    <a class="active" href="/">Is</a>
+    <a class="active" href="/">Eating</a>
+    <a class="active" href="/">Green</a>
+    <a class="active" href="/">Grass</a>
+    <a class="active" href="/">After</a>
+    <div class="search-container">
+        <input type="text" placeholder="Enter Article Name" class="search-bar">
+    </div>
+    <i class="glyphicon glyphicon-user"></i>
+    <i class="glyphicon glyphicon-bell"></i>
+</div>
+
+{% block content %}
+{% endblock %}
+</body>
+</html>

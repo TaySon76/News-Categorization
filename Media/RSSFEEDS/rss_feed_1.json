@@ -1,0 +1,318 @@
+{
+    "rss": {
+        "@xmlns:cbc": "https://www.cbc.ca/rss/cbc",
+        "@version": "2.0",
+        "channel": {
+            "title": "CBC | Politics News",
+            "description": "FOR PERSONAL USE ONLY",
+            "link": "https://www.cbc.ca/news/politics/?cmp=rss",
+            "copyright": "Copyright: (C) Canadian Broadcasting Corporation, http://www.cbc.ca/aboutcbc/discover/termsofuse.html#Rss",
+            "docs": "https://www.cbc.ca/rss",
+            "lastBuildDate": "Sat, 04 May 2024 12:52:46 EDT",
+            "image": {
+                "title": "CBC | Politics News",
+                "url": "https://www.cbc.ca/rss/image/cbc_144.gif",
+                "link": "https://www.cbc.ca/news/politics/?cmp=rss"
+            },
+            "item": [
+                {
+                    "@cbc:type": "story",
+                    "@cbc:deptid": "2.636",
+                    "@cbc:syndicate": "true",
+                    "title": "India waits for details on arrests in Canada over Sikh separatist's murder",
+                    "link": "https://www.cbc.ca/news/politics/india-wait-canada-details-nijjar-killing-1.7194360?cmp=rss",
+                    "description": "<img src='https://i.cbc.ca/1.7194361.1714832252!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/britain-india-politics.jpg' alt='A man wearing a suit walks on the street.' width='620' height='349' title='Indian foreign minister Subrahmanyam Jaishankar arrives 10 Downing Street to meet Britain&apos;s Prime Minister Rishi Sunak in London, Sunday, Nov. 12, 2023.'/><p>India says it's waiting for details from the government of Canada before it responds to the arrest of three men in the killing of Hardeep Singh Nijjar.</p>",
+                    "pubDate": "Sat, 04 May 2024 11:11:26 EDT",
+                    "category": "News/Politics",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "1.7194360"
+                    }
+                },
+                {
+                    "@cbc:type": "story",
+                    "@cbc:deptid": "2.636",
+                    "@cbc:syndicate": "true",
+                    "title": "Parliamentary report on Emergencies Act decision is long past due \u2014 with no clear delivery date",
+                    "link": "https://www.cbc.ca/news/politics/report-emergencies-act-committee-delay-1.7194348?cmp=rss",
+                    "description": "<img src='https://i.cbc.ca/1.6752553.1706103944!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/freedom-convoy-ottawa-before-and-after.jpg' alt='Protesters and trucks with signs and Canada flags outside a legislature on a snowy day.' width='620' height='349' title='Freedom Convoy Demonstration in Ottawa.before police moved in on 20 Feb 2022. See truck and protest signs in front of Parliament buildings.'/><p>The parliamentary committee responsible for studying the federal government's use of the Emergencies Act during the 2022 convoy protests has long blown through its deadline.</p>",
+                    "pubDate": "Sat, 04 May 2024 12:23:18 EDT",
+                    "category": "News/Politics",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "1.7194348"
+                    },
+                    "cbc:authorName": "Anja Karadeglija"
+                },
+                {
+                    "@cbc:type": "story",
+                    "@cbc:deptid": "2.636",
+                    "@cbc:syndicate": "true",
+                    "title": "Love the idea or hate it, experts say federal use of notwithstanding clause would be a bombshell",
+                    "link": "https://www.cbc.ca/news/politics/historic-potential-notwithstanding-federal-use-1.7193180?cmp=rss",
+                    "description": "<img src='https://i.cbc.ca/1.7190917.1714619829!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/commons-20240501.JPG' alt='Conservative Leader Pierre Poilievre rises during question period in the House of Commons on Parliament Hil' width='620' height='349' title='Conservative Leader Pierre Poilievre rises during question period in the House of Commons on Parliament Hill in Ottawa on Wednesday, May 1, 2024.'/><p>Conservative Leader Pierre Poilievre suggested this week that, if elected, he would use the notwithstanding clause to push for some criminal justice reforms, a move that experts say would be significant and historic.</p>",
+                    "pubDate": "Sat, 04 May 2024 04:00:00 EDT",
+                    "category": "News/Politics",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "1.7193180"
+                    },
+                    "cbc:authorName": "Christian Paas-Lang"
+                },
+                {
+                    "@cbc:type": "story",
+                    "@cbc:deptid": "2.636",
+                    "@cbc:syndicate": "true",
+                    "title": "Police make arrests in killing of B.C. Sikh activist Hardeep Singh Nijjar",
+                    "link": "https://www.cbc.ca/news/politics/nijjar-killing-arrests-made-1.7192807?cmp=rss",
+                    "description": "<img src='https://i.cbc.ca/1.5197933.1709926281!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/sikh-leaders-back-surrey-police.jpg' alt='A group of Sikh men speak informally to each other for a posed photograph.' width='620' height='349' title='Hardeep Singh Nijjar outside of the Guru Nanak Sikh Gurdwara in Surrey, British Columbia, on Tuesday, July 2, 2019. In a statement responding to queries about making India part of her mandate probing foreign interference, the Privy Council Office has indicated Nijjar&apos;s killing is a matter of criminal investigation by the RCMP. '/><p>Canadian police have arrested members of an alleged hit squad investigators believe was tasked by the government of India with killing prominent Sikh separatist Hardeep Singh Nijjar in B.C. last June, CBC News has learned.</p>",
+                    "pubDate": "Fri, 03 May 2024 12:23:20 EDT",
+                    "category": "News/Politics",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "1.7192807"
+                    },
+                    "cbc:authorName": "Evan Dyer"
+                },
+                {
+                    "@cbc:type": "story",
+                    "@cbc:deptid": "2.636",
+                    "@cbc:syndicate": "true",
+                    "title": "What we know about the arrests and investigation into Hardeep Singh Nijjar's killing",
+                    "link": "https://www.cbc.ca/news/politics/hardeep-singh-nijjar-killing-arrests-made-faq-1.7193911?cmp=rss",
+                    "description": "<img src='https://i.cbc.ca/1.7193918.1714797439!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/nijjar-arrests.jpg' alt='A man in a grey suit stands with both hands on a wooden podium as he speaks during a news conference. A blue banner with the RCMP logo in white is standing behind him.' width='620' height='349' title='IHIT Superintendent Mandeep Mooker speaks during a press conference announcing the arrest of 3 individuals related to the death of Hardeep Singh Nijjar at RCMP \u2018E\u2019 Division headquarters in Surrey, B.C., on May 3, 2024.'/><p>Three men were arrested and charged Friday in connection with the killing of a Sikh separatist activist in B.C., a crime that fractured the diplomatic relationship between India and Canada last year. Here's what we know.</p>",
+                    "pubDate": "Fri, 03 May 2024 18:14:49 EDT",
+                    "category": "News/Politics",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "1.7193911"
+                    },
+                    "cbc:authorName": "Rhianna Schmunk"
+                },
+                {
+                    "@cbc:type": "story",
+                    "@cbc:deptid": "2.636",
+                    "@cbc:syndicate": "true",
+                    "title": "Foreign meddling didn't affect who formed government in past 2 elections, but inquiry flags 'troubling' events",
+                    "link": "https://www.cbc.ca/news/politics/foreign-interference-inquiry-first-report-1.7191156?cmp=rss",
+                    "description": "<img src='https://i.cbc.ca/1.7193415.1714807612!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/foreign-interference-ridings-20240503.jpg' alt='Commissioner Justice Marie-Josee Hogue speaks about the interim report following its release at the Public Inquiry Into Foreign Interference in Federal Electoral Processes and Democratic Institutions, in Ottawa, Friday, May 3, 2024.' width='620' height='349' title='Commissioner Justice Marie-Josee Hogue speaks about the interim report following its release at the Public Inquiry Into Foreign Interference in Federal Electoral Processes and Democratic Institutions, in Ottawa, Friday, May 3, 2024.'/><p>Canadians could get a clearer sense today of the extent to which China and other countries meddled in the past two federal elections\u00a0\u2014\u00a0and whether the government and security agencies did enough to share that information \u2014 when the public inquiry on foreign interference releases its first report.</p>",
+                    "pubDate": "Fri, 03 May 2024 04:00:00 EDT",
+                    "category": "News/Politics",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "1.7191156"
+                    },
+                    "cbc:authorName": "Catharine Tunney"
+                },
+                {
+                    "@cbc:type": "story",
+                    "@cbc:deptid": "2.636",
+                    "@cbc:syndicate": "true",
+                    "title": "Watchdog agency accuses chief of military police of blocking investigations",
+                    "link": "https://www.cbc.ca/news/politics/military-police-provost-marshal-complaints-1.7193973?cmp=rss",
+                    "description": "<img src='https://i.cbc.ca/1.7166045.1712439058!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/canadian-armed-forces.jpg' alt='A Canadian flag badge is displayed on the uniform of a Canadian Armed Forces soldier. ' width='620' height='349' title='File - A Canadian flag badge is displayed on the uniform of a Canadian Armed Forces soldier. '/><p>The country's military police watchdog has accused the Canadian Forces Provost Marshal of obstructing its independent reviews of complaints.</p>",
+                    "pubDate": "Fri, 03 May 2024 17:50:23 EDT",
+                    "category": "News/Politics",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "1.7193973"
+                    },
+                    "cbc:authorName": "Murray Brewster"
+                },
+                {
+                    "@cbc:type": "story",
+                    "@cbc:deptid": "2.636",
+                    "@cbc:syndicate": "true",
+                    "title": "Canada Post lost $748 million last year, warns of 'critical' financial situation",
+                    "link": "https://www.cbc.ca/news/politics/canada-post-748-million-loss-2023-1.7193944?cmp=rss",
+                    "description": "<img src='https://i.cbc.ca/1.7091501.1705964134!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/que-spring-floods-20230504.JPG' alt='A red mail box is surrounded by flood water.' width='620' height='349' title='A partially flooded Canada Post mail box is seen in the Gatineau, Que. region on Thursday, May 4, 2023. Flood warnings are in effect for the national capital region following significant rainfall and increased water runoff.'/><p>Canada Post warns its financial situation is so grim it\u00a0could run out of operating money in less than a year,\u00a0citing declining revenue and increased competition from private delivery companies.</p>",
+                    "pubDate": "Fri, 03 May 2024 19:13:22 EDT",
+                    "category": "News/Politics",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "1.7193944"
+                    }
+                },
+                {
+                    "@cbc:type": "story",
+                    "@cbc:deptid": "2.636",
+                    "@cbc:syndicate": "false",
+                    "title": "At long last, the Hogue inquiry lays the foundation for a real debate about foreign interference",
+                    "link": "https://www.cbc.ca/news/politics/hogue-inquiry-foreign-interference-china-1.7193727?cmp=rss",
+                    "description": "<img src='https://i.cbc.ca/1.7170117.1714806848!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/foreign-interference-20240410.JPG' alt='A woman sits in a chair holding a pen. A Canadian flag is drapped in the background.' width='620' height='349' title='Commissioner Justice Marie-Josee Hogue listens as Prime Minister Justin Trudeau appears as a witness at the Public Inquiry Into Foreign Interference in Federal Electoral Processes and Democratic Institutions in Ottawa on Wednesday, April 10, 2024.'/><p>The most grave allegation levelled during the foreign interference saga was that the Liberal government willfully turned a blind eye to Chinese state meddling. Justice Marie-Jos\u00e9e Hogue\u2019s initial\u00a0report seems to at least cast significant\u00a0doubt on that claim.</p>",
+                    "pubDate": "Fri, 03 May 2024 16:53:53 EDT",
+                    "category": "News/Politics",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "1.7193727"
+                    },
+                    "cbc:authorName": "Aaron Wherry"
+                },
+                {
+                    "@cbc:type": "story",
+                    "@cbc:deptid": "2.636",
+                    "@cbc:syndicate": "true",
+                    "title": "Military raked by critics online after unveiling new army logo",
+                    "link": "https://www.cbc.ca/news/politics/canadian-forces-army-logo-1.7194088?cmp=rss",
+                    "description": "<img src='https://i.cbc.ca/1.6894167.1688149331!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/canadian-armed-forces-march.jpg' alt='Male and female members of the Canadian Armed Forces march in a lineup wearing green CADPAT uniforms and black berets.' width='620' height='349' title='Members of the Canadian Armed Forces march during the Calgary Stampede parade in Calgary, Friday, July 8, 2016. A Department of National Defence report from 2013 suggests the requirement to move had a \u201chighly disruptive influence&quot; on military family life.'/><p>The Canadian Army learned two valuable lessons Friday: appreciation of art is in the eye of the beholder and it pays to be precise, even on social media.</p>",
+                    "pubDate": "Fri, 03 May 2024 18:51:47 EDT",
+                    "category": "News/Politics",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "1.7194088"
+                    },
+                    "cbc:authorName": "Murray Brewster"
+                },
+                {
+                    "@cbc:type": "story",
+                    "@cbc:deptid": "2.636",
+                    "@cbc:syndicate": "true",
+                    "title": "A timeline of Canada-India tensions \u2014 from 2018 to today's arrests",
+                    "link": "https://www.cbc.ca/news/politics/timeline-canada-india-tensions-arrests-1.7193238?cmp=rss",
+                    "description": "<img src='https://i.cbc.ca/1.7193250.1714753180!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/india-canada-sikh-separatism.jpg' alt='Prime Minister Justin Trudeau, left, walks past India&apos;s Prime Minister Narendra Modi as they take part in a wreath-laying ceremony at Raj Ghat, Mahatma Gandhi&apos;s cremation site, during the G20 Summit in New Delhi, Sunday, Sept. 10, 2023.' width='620' height='349' title='Prime Minister Justin Trudeau, left, walks past India&apos;s Prime Minister Narendra Modi as they take part in a wreath-laying ceremony at Raj Ghat, Mahatma Gandhi&apos;s cremation site, during the G20 Summit in New Delhi, Sunday, Sept. 10, 2023.'/><p>Relations between Canada and India have been under pressure for years, as Prime Minister Justin Trudeau and Indian Prime Minister Narendra Modi have quarreled over Sikh separatist elements in this country.</p>",
+                    "pubDate": "Fri, 03 May 2024 12:27:50 EDT",
+                    "category": "News/Politics",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "1.7193238"
+                    },
+                    "cbc:authorName": "John Paul Tasker"
+                },
+                {
+                    "@cbc:type": "story",
+                    "@cbc:deptid": "2.637",
+                    "@cbc:syndicate": "true",
+                    "title": "Canada's shopping for a foreign grocer. Can an international retailer succeed here?",
+                    "link": "https://www.cbc.ca/news/business/foreign-grocers-industry-minister-1.7188426?cmp=rss",
+                    "description": "<img src='https://i.cbc.ca/1.7188444.1714417679!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/britain-grocers.JPG' alt='A shopper pushes a cart into a grocery store.' width='620' height='349' title='A shopper walks inside an ALDI supermarket near Altrincham, Britain, on Feb. 20, 2023. The German chain is among the top brass of European grocers that the government is reportedly courting to enter the Canadian market.'/><p>With some Canadian consumers struggling to afford groceries, and as frustrations with corporate profits boil over, the federal government says it's trying to coax international grocers to set up shop in Canada.\u00a0</p>",
+                    "pubDate": "Fri, 03 May 2024 04:00:00 EDT",
+                    "category": "News/Business",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "1.7188426"
+                    },
+                    "cbc:authorName": "Jenna Benchetrit"
+                },
+                {
+                    "@cbc:type": "story",
+                    "@cbc:deptid": "2.636",
+                    "@cbc:syndicate": "true",
+                    "title": "Top soldier says military looking for 'clarity' on Ottawa's budget plans",
+                    "link": "https://www.cbc.ca/news/politics/wayne-eyre-budget-cuts-defence-policy-1.7191865?cmp=rss",
+                    "description": "<img src='https://i.cbc.ca/1.7192077.1714675147!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trident-fury-20130517.jpg' alt='Soldiers in green camo crouch in the woods.' width='620' height='349' title='Cpl. Michael Huard, centre, keeps quiet with one hundred and fifty armoured members of the Canadian Army Royal 22nd Regiment from Valcartier, Quebec, taking part in the Trident Fury 13 military exercises at Albert Head Beach in Metchosin, B.C., Friday May 17, 2013. The biennial joint and multinational naval exercise, running from May 3 to 19, includes participation from the Royal Canadian Air Force, the Royal Canadian Navy, the Canadian Army, The United States Navy, U.S. Air Force, U.S. National Guard and U.S. Coast Guard members providing a full spectrum of air, land, and sea tactical warfare training with the aim of enhancing Canada&apos;s ability to respond to offshore threats and unlawful acts from within a coalition environment. THE CANADIAN PRESS/Chad Hipolito'/><p>Just over a month into the new fiscal year and two weeks after the federal budget, the Department of National Defence is struggling to reconcile the Liberal government's approach to\u00a0military funding \u2014\u00a0giving with one hand while taking with the other.</p>",
+                    "pubDate": "Fri, 03 May 2024 04:00:00 EDT",
+                    "category": "News/Politics",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "1.7191865"
+                    },
+                    "cbc:authorName": "Murray Brewster"
+                },
+                {
+                    "@cbc:type": "story",
+                    "@cbc:deptid": "2.651",
+                    "@cbc:syndicate": "true",
+                    "title": "Manitoba partners with federal government on Red Dress Alert for missing Indigenous women and girls",
+                    "link": "https://www.cbc.ca/news/canada/manitoba/red-dress-alert-pilot-1.7193608?cmp=rss",
+                    "description": "<img src='https://i.cbc.ca/1.7193615.1714765056!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/red-dress-alert.jpg' alt='A man stands at a podium, flanked by two women.' width='620' height='349' title='Crown-Indigenous Relations Minister Gary Anandasangaree, centre, announces the pilot program, flanked by NDP MP Leah Gazan, right, and Nahanni Fontaine, left, who is the Manitoba minister for women and gender equity.'/><p>Canada and Manitoba are partnering to launch an alert system that would inform the public when an Indigenous woman or girl goes missing, they announced Friday in Winnipeg, ahead of a national day to mark the crisis.</p>",
+                    "pubDate": "Fri, 03 May 2024 15:45:30 EDT",
+                    "category": "News/Canada/Manitoba",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "1.7193608"
+                    },
+                    "cbc:authorName": "Alessia Passafiume"
+                },
+                {
+                    "@cbc:type": "story",
+                    "@cbc:deptid": "2.636",
+                    "@cbc:syndicate": "true",
+                    "title": "Top court orders new trial for francophone B.C. man who was not given French option",
+                    "link": "https://www.cbc.ca/news/politics/supreme-court-french-trial-ruling-1.7192936?cmp=rss",
+                    "description": "<img src='https://i.cbc.ca/1.6993722.1697122102!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/scoc-20230616.JPG' alt='A building is shown in the background, with a sign that reads Supreme Court of Canada shown in the foreground.' width='620' height='349' title='The Supreme Court of Canada is seen in a file photo from June 2023. '/><p>The Supreme Court is ordering a new trial for a francophone man in British Columbia who says he was not informed of his right to have a trial in the official language of his choice.</p>",
+                    "pubDate": "Fri, 03 May 2024 10:41:22 EDT",
+                    "category": "News/Politics",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "1.7192936"
+                    },
+                    "cbc:authorName": "Stephanie Taylor"
+                },
+                {
+                    "@cbc:type": "story",
+                    "@cbc:deptid": "2.662",
+                    "@cbc:syndicate": "true",
+                    "title": "Ottawa commits $104M to help Toronto host 2026 World Cup games",
+                    "link": "https://www.cbc.ca/news/canada/toronto/world-cup-funding-toronto-1.7192830?cmp=rss",
+                    "description": "<img src='https://i.cbc.ca/1.6461895.1714739808!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/soc-wcup-2026-host-20180613.jpg' alt='BMO Field in Toronto is pictured in 2018.' width='620' height='349' title='BMO Field in Toronto is pictured in 2018. The stadium will need to be expanded for the 2026 World Cup to bring it up to the FIFA minimum capacity of 40,000-plus.'/><p>The federal government says it will provide $104 million to\u00a0help Toronto host six matches at the 2026 FIFA World Cup, less than a third of the $380 million price tag estimated by the city.</p>",
+                    "pubDate": "Fri, 03 May 2024 08:39:47 EDT",
+                    "category": "News/Canada/Toronto",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "1.7192830"
+                    }
+                },
+                {
+                    "@cbc:type": "story",
+                    "@cbc:deptid": "2.636",
+                    "@cbc:syndicate": "true",
+                    "title": "'We are getting closer' to cutting interest rates, Bank of Canada governor tells MPs",
+                    "link": "https://www.cbc.ca/news/politics/bank-of-canada-macklem-closer-cutting-interest-rates-1.7191597?cmp=rss",
+                    "description": "<img src='https://i.cbc.ca/1.7191605.1714658308!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/finance-committee-20240502.JPG' alt='Bank of Canada Governor Tiff Macklem arrives to appear as a witness at a House of Commons Finance Committee in Ottawa on Thursday, May 2, 2024.' width='620' height='349' title='Bank of Canada Governor Tiff Macklem arrives to appear as a witness at a House of Commons Finance Committee in Ottawa on Thursday, May 2, 2024.'/><p>The Bank of Canada is getting closer to cutting interest rates as inflation shows signs of coming down and staying down, the central bank's governor,\u00a0Tiff Macklem, told MPs Thursday.</p>",
+                    "pubDate": "Thu, 02 May 2024 10:17:06 EDT",
+                    "category": "News/Politics",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "1.7191597"
+                    },
+                    "cbc:authorName": "John Paul Tasker"
+                },
+                {
+                    "@cbc:type": "story",
+                    "@cbc:deptid": "2.630",
+                    "@cbc:syndicate": "true",
+                    "title": "Canada's greenhouse gas emissions climbed in 2022, after pandemic slowdown",
+                    "link": "https://www.cbc.ca/news/climate/national-inventory-report-emissions-1.7191563?cmp=rss",
+                    "description": "<img src='https://i.cbc.ca/1.7191913.1714669715!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/cda-emissions-20240502.jpg' alt='man at podium' width='620' height='349' title='Steven Guilbeault, Minister of Environment and Climate Change, answers questions on Parliament Hill in Ottawa on Thursday, May 2, 2024. '/><p>Canada's greenhouse gas emissions rose in 2022, as the economy rebounded from the pandemic slowdown. But Environment Minister Steven Guilbeault said the numbers are a sign his government's climate policies are working, with emissions totals the lowest in 25 years aside from the pandemic years.</p>",
+                    "pubDate": "Thu, 02 May 2024 10:12:01 EDT",
+                    "category": "News/Climate",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "1.7191563"
+                    },
+                    "cbc:authorName": "Benjamin Shingler"
+                },
+                {
+                    "@cbc:type": "story",
+                    "@cbc:deptid": "2.636",
+                    "@cbc:syndicate": "false",
+                    "title": "Despite all the shouting, the opioid crisis continues to defy simple answers",
+                    "link": "https://www.cbc.ca/news/politics/opiod-drug-deaths-bc-poilievre-trudeau-1.7191010?cmp=rss",
+                    "description": "<img src='https://i.cbc.ca/1.7191167.1714601244!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/overdose-crisis-20230831.JPG' alt='A weathered-looking man carries a fake wooden coffin.' width='620' height='349' title='Carl Gladue helps carry an empty coffin during a march organized by the Vancouver Area Network of Drug Users (VANDU) to mark International Overdose Awareness Day, in Vancouver, on Thursday, August 31, 2023.'/><p>The debate in Parliament about British Columbia\u2019s decriminalization policy was being conducted at extremes even before Pierre Poilievre used the term \u201cwacko.\u201d</p>",
+                    "pubDate": "Thu, 02 May 2024 04:00:00 EDT",
+                    "category": "News/Politics",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "1.7191010"
+                    },
+                    "cbc:authorName": "Aaron Wherry"
+                },
+                {
+                    "@cbc:type": "story",
+                    "@cbc:deptid": "2.636",
+                    "@cbc:syndicate": "true",
+                    "title": "Veteran Affairs 'March holidays' social media post sparks backlash",
+                    "link": "https://www.cbc.ca/news/politics/veteran-affairs-march-holiday-post-1.7192444?cmp=rss",
+                    "description": "<img src='https://i.cbc.ca/1.7192498.1714689102!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/canadian-armed-forces-day-20230604.JPG' alt='A man in a uniform walks by the a war monument.' width='620' height='349' title='A sentry paces as they guard the Tomb of the Unknown Soldier at the National War Memorial in Ottawa, on Canadian Armed Forces Day, Sunday, June 4, 2023.'/><p>After a flood of angry comments, Veterans Affairs Canada staff found themselves working over the Easter weekend this year, scrambling to explain why one of the department's social media posts didn't actually mention the holiday.</p>",
+                    "pubDate": "Thu, 02 May 2024 19:31:08 EDT",
+                    "category": "News/Politics",
+                    "guid": {
+                        "@isPermaLink": "false",
+                        "#text": "1.7192444"
+                    },
+                    "cbc:authorName": "Sarah Ritchie"
+                }
+            ]
+        }
+    }
+}
